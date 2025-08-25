@@ -32,7 +32,7 @@
  
 ## 🎲 Fun Facts 
 - Sometimes I type `console.log("Hello World")` but deep inside it’s `console.log("Send help")` 😅   
-- My keyboard is crying because of too many `Ctrl+Z` 💀  
+- My keyboard is crying because of too many `Ctrl+V` 💀  
 - Other devs: *“Is your project done?”*   
   Me: *“No, but at least my GitHub README looks aesthetic 😎”*   
  
