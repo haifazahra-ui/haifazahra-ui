@@ -12,7 +12,7 @@
 ## 💀 About Me 
 - 🌱 Currently learning how to turn bugs into features  
 - 🐢 Code speed: fast | Debug speed: loading forever...   
-- ☕ Powered by coffee, tea, and instant noodles  
+- ☕ Powered by coffee, chocolate, and instant noodles  
 - 🛌 Sleep skills: 10/10 | Social life: 404 Not Found   
 
 ---
@@ -38,5 +38,5 @@
  
 --- 
  
-✨ Thanks for scrolling all the way down… now let’s grab some coffee ☕  
+✨ Thanks for scrolling all the way down… now let’s grab some ramen ☕  
 
