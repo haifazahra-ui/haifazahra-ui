@@ -3,9 +3,10 @@
 # 👋 Hey there, I'm Haifazahra Irawan 
 
 👩‍💻 Web Developer (a.k.a professional bug creator 🐛)  
-🎓 Studied Software Engineering at SMK Prakarya Internasional, Indonesia   
+🎓 Studied Software Engineering at [SMK Prakarya Internasional](https://smk-prakaryainternasional.sch.id/)  , Indonesia   
 🤖 Life motto: *"If I can’t fix it… let’s ChatGPT do it ✨"*   
- 
+
+ <img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ2aDR6OWZsbjgwamk0ejlhNDA0aHF1eXozYjJleWxxMXh6ZHV5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qAtZM2gvjWhPjmclZE/giphy.gif)" width="300" />
 --- 
  
 ## 💀 About Me 
